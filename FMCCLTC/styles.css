@@ -1,0 +1,227 @@
+/* Ford Global Colors 
+    FBlue #00095B
+    Twilight (dark blue) #00142E
+    Grabber (light blue) #1700F4
+    
+    */
+
+    body {
+        margin-top: 0px;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #ffffff;
+        background-image: url("");
+        padding: 20px;
+        
+      }
+      
+      #mainheader {
+        background-color: #00142E;
+      }
+      
+      nav {
+        height: 60px;
+        width: 600px;
+        margin: 0 auto 20px;
+        
+      }
+      
+      #leftmenu {
+          float: left;
+          width: 20%;
+          margin-bottom: 10px;
+          
+      }
+      
+      #main {
+        float: right;
+        width: 70%;
+        margin-bottom: 20px;
+      }
+      
+      footer {
+          font-size: 10pt;
+          clear: both;
+          width: 100%;
+      }
+      
+      header,
+      section,
+      footer,
+      aside,
+      nav,
+      main,
+      article,
+      figure {
+        display: block;
+      }
+      
+      nav > ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      
+      nav > ul > li {
+        float: left;
+      }
+      
+      nav > ul > li a {
+      
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 15px;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      
+      #profile {
+          text-align: center;
+          
+      }
+      
+      #instructions {
+          font-size: 20px;
+      
+      }
+      
+      h1 {
+          text-align: center;
+          font-size: 42px;
+          text-decoration-line: underline;
+      }
+      
+      h2{
+          color: #00142E;
+          text-align: center;
+      }
+      
+      h3{
+          color: #00095B;
+      }
+      
+      .items{
+          display: inline-flex;
+          text-align: start;
+          margin: 0 20px;
+          flex: 1;
+          width: 25em;
+      }
+      
+/* Ford Global Colors 
+    FBlue #00095B
+    Twilight (dark blue) #00142E
+    Grabber (light blue) #1700F4
+    
+    */
+
+body {
+  margin-top: 0px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+  background-image: url("");
+  padding: 20px;
+  
+}
+
+#mainheader {
+  background-color: #00142E;
+}
+
+nav {
+  height: 60px;
+  width: 600px;
+  margin: 0 auto 20px;
+  
+}
+
+#leftmenu {
+    float: left;
+    width: 20%;
+    margin-bottom: 10px;
+    
+}
+
+#main {
+  float: right;
+  width: 70%;
+  margin-bottom: 20px;
+}
+
+footer {
+    font-size: 10pt;
+    clear: both;
+    width: 100%;
+}
+
+header,
+section,
+footer,
+aside,
+nav,
+main,
+article,
+figure {
+  display: block;
+}
+
+nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav > ul > li {
+  float: left;
+}
+
+nav > ul > li a {
+
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#profile {
+    text-align: center;
+    
+}
+
+#instructions {
+    font-size: 20px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    text-decoration-line: underline;
+}
+
+h2{
+    color: #00142E;
+    text-align: center;
+}
+
+h3{
+    color: #00095B;
+}
+
+.items{
+    display: inline-flex;
+    text-align: start;
+    margin: 0 20px;
+    flex: 1;
+    width: 25em;
+}
+
+      
